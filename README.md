@@ -23,6 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-cse&show_icons=true&locale=en&layout=compact" alt="hisham-cse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-cse&show_icons=true&locale=en" alt="hisham-cse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hisham-cse&" alt="hisham-cse" /></p>
